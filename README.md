@@ -25,6 +25,8 @@ C:\war\Maps\Download\
 
 Then select the map in Warcraft III.
 
+## Disclaimer
+
 This is a custom Warcraft III map created for educational/non-commercial purposes.
 
 Warcraft III and related assets belong to Blizzard Entertainment.
