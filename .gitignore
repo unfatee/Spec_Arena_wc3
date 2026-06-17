@@ -1,0 +1,27 @@
+# Local/generated files
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.bak
+*.log
+*.dmp
+CrashSummaries.bin
+
+# Verification/build scratch directories
+verify*/
+extract*/
+work*/
+temp*/
+tmp*/
+
+# Do not accidentally commit random maps; keep only release builds in dist.
+*.w3x
+*.w3m
+!dist/*.w3x
+
+# Third-party/local tools
+tools/*.exe
+tools/*.dll
+!tools/README.md
+

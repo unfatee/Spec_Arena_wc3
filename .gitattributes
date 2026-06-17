@@ -1,0 +1,11 @@
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.py text eol=lf
+*.j text eol=lf
+*.w3x binary
+*.w3a binary
+*.w3i binary
+*.w3t binary
+*.w3u binary
+*.wts binary
+
