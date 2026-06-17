@@ -1,4 +1,4 @@
-# Spec Arena 2.5.7.3 by Fawk
+# Spec Arena 2.5.7.3 
 
 Warcraft III custom map 
 
